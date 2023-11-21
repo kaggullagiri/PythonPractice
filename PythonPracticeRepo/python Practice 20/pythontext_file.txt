@@ -1,0 +1,3 @@
+It is write and read mode
+ previous data is this is my first text file
+ i need to write in file Now i modified the already existing data in the file by using w+
